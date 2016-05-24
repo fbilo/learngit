@@ -1,0 +1,2 @@
+This is a test file for git.
+Supposed to be add in local resposite.
