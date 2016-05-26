@@ -1,3 +1,5 @@
 This is a test file for git.
 Supposed to be add in local a reposite.
 This is the third line changed at second time.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
